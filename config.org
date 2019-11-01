@@ -6,6 +6,7 @@ Welcome to answer's special Emacs configuration! I will customize this however
 I see fit to my advantage in the future. However, it is now a great step that
 I have made the move over to a configuration written within org-mode so that
 it is more organized.
+
 [[./preview.png]]
 * Packages
 ** Repositories
