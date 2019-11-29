@@ -1,3 +1,4 @@
+
 #+TITLE: Emacs Configuration
 #+AUTHOR: answer
 
@@ -41,11 +42,22 @@ Since repeating ~:ensure t~ is tiring, let's make doing that redundant.
     (setq auto-package-update-hide-results t)
     (auto-package-update-maybe))
 #+END_SRC
+* External Software Support
+** Windows
+*** GPG
+This allows us to have encrypted files in Emacs for things like schedules and
+other personal private data that somebody might want to look at.
+#+BEGIN_SRC emacs-lisp
+(require 'epa-file)
+(custom-set-variables '(epg-gpg-program "C:/Program Files (x86)/gnupg/bin/gpg.exe"))
+(epa-file-enable)
+#+END_SRC
 * Visual
 ** Remove clutter from screen
 #+BEGIN_SRC emacs-lisp
   (scroll-bar-mode -1)
   (tool-bar-mode -1)
+  (menu-bar-mode -1)
 #+END_SRC
 *** Remove annoying noises from doing anything out of line
 I know this doesn't count as visual, but I really don't feel like making a seperate category for this
@@ -72,9 +84,25 @@ comfortably.
   (use-package all-the-icons)
 #+END_SRC
 ** Line numbers
+- Note taken on [2019-11-04 Mon 08:27] \\
+  This has been disabled since the line numbers take up a lot of space
+  on the screen which the job of knowing which line number I'm on is solved
+  by the modeline.
 This enables line numbers in all programming related modes.
 #+BEGIN_SRC emacs-lisp
-  (add-hook 'prog-mode-hook 'display-line-numbers-mode)
+  ;; (add-hook 'prog-mode-hook 'display-line-numbers-mode)
+#+END_SRC
+** Highlight current line in programming modes
+The reason why we only do this when we have a window system is that highlight
+line mode can be a little broken without one.
+#+BEGIN_SRC emacs-lisp
+(when window-system (add-hook 'prog-mode-hook 'hl-line-mode))
+#+END_SRC
+** Rainbow Delimiters
+#+BEGIN_SRC emacs-lisp
+  (use-package rainbow-delimiters
+    :ensure t
+    :config (add-hook 'prog-mode-hook 'rainbow-delimiters-mode))
 #+END_SRC
 ** Beacon
 #+BEGIN_SRC emacs-lisp
@@ -91,6 +119,7 @@ This enables line numbers in all programming related modes.
 * Projectile
 #+BEGIN_SRC emacs-lisp
   (use-package projectile
+    :diminish projectile-mode
     :config
     (projectile-mode +1)
     (define-key projectile-mode-map (kbd "C-c p") 'projectile-command-map))
@@ -122,6 +151,7 @@ Needed to insert break lines so that ~^L~ isn't displayed instead.
 * Autocomplete
 #+BEGIN_SRC emacs-lisp
   (use-package auto-complete
+    :diminish
     :config (ac-config-default))
 #+END_SRC
 * Powerthesaurus
@@ -133,10 +163,20 @@ Thesaurus integration for Emacs.
 #+BEGIN_SRC emacs-lisp
   (use-package neotree
     :config (setq neo-theme (if (display-graphic-p) 'icons 'arrow))
-    :bind ([f8] . neotree-toggle))
+    :bind ("C-c C-x TAB" . neotree-toggle))
 #+END_SRC
 * IDO
-
+#+BEGIN_SRC emacs-lisp
+  (require 'ido)
+  (ido-mode t)
+#+END_SRC
+** IDO vertical mode
+#+BEGIN_SRC emacs-lisp
+  (use-package ido-vertical-mode
+    :config
+    (ido-vertical-mode 1)
+    (setq ido-vertical-define-keys 'C-n-and-C-p-only))
+#+END_SRC
 * popup-kill-ring
 #+BEGIN_SRC emacs-lisp
   (use-package popup-kill-ring
@@ -147,6 +187,7 @@ When we start a key macro, this helps gives us suggestions for what we
 can do in case we forgot what we were going to do.
 #+BEGIN_SRC emacs-lisp
   (use-package which-key
+    :diminish which-key-mode
     :config (which-key-mode))
 #+END_SRC
 * Org
@@ -166,3 +207,25 @@ Allow for the exporting of org-mode files in HTML in Windows.
               '(lambda ()
                  (visual-line-mode 1)))
 #+END_SRC
+** org-reveal
+#+BEGIN_SRC emacs-lisp
+  (use-package ox-reveal)
+#+END_SRC
+* Translation
+#+BEGIN_SRC emacs-lisp
+  (use-package google-translate
+    :ensure t
+    :config
+    (global-set-key "\C-ct" 'google-translate-smooth-translate)
+    (global-set-key "\C-cT" '(google-translate-at-point "English" "French")))
+#+END_SRC
+* SmileBASIC Mode
+#+BEGIN_SRC emacs-lisp
+  (load-file "~/.emacs.d/smilebasic-mode/smilebasic.el")
+#+END_SRC
+* Fireplace
+#+BEGIN_SRC emacs-lisp
+(use-package fireplace)
+#+END_SRC
+* TODO Magit
+* TODO Yasnippet

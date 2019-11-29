@@ -1,12 +1,76 @@
-((("kbd" .
+((("COMMON" .
+   [0 0 0 1 0 0])
+  ("ENDIF" .
+   [0 0 3 0 0])
+  ("ac-clear-dictionary-cache" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("reportCard" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("stdio" .
+   [1 0 0 0 0])
+  ("letterIncrements" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("mark" .
+   [1 0 0 0])
+  ("grades" .
+   [1 0 0 0 0 0])
+  ("failingMark" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("in" .
+   [1 0])
+  ("REPORT_CARD_H" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("-1" .
+   [1 0])
+  ("menu-bar-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("google-translate-at-point" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("which-key-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
    [1 0 0])
   ("projectile-mode" .
    [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
   ("define-key" .
    [1 0 0 0 0 0 0 0 0 0])
   (":config" .
-   [1 0 0 0 0 0 0])
+   [2 0 0 0 0 0 0])
   ("page-break-lines" .
    [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
   ("use-package" .
-   [2 0 0 0 0 0 0 0 0 0 0])))
+   [3 0 0 0 0 0 0 0 0 0 0])
+  ("ido-vertical-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("setq" .
+   [1 0 0 0])
+  (":diminish" .
+   [2 0 0 0 0 0 0 0 0])
+  (":ensure" .
+   [1 0 0 0 0 0 0])
+  ("google-translate-smooth-" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("printf" .
+   [13 0 0 0 0 0])
+  ("switch" .
+   [0 0 0 0 1 0])
+  ("arr" .
+   [2 0 0])
+  ("arrsize" .
+   [1 0 0 0 0 0 0])
+  ("avg" .
+   [3 0 0])
+  ("add-to-list" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("ac-dictionary-directories" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("expand-file-name" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("file-name-directory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("load-file" .
+   [0 0 0 0 0 0 0 1 0])
+  ("load-file-name" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("BGROT" .
+   [0 0 0 1 0])))

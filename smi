@@ -1,0 +1,21 @@
+int main () {
+  int i = 30;
+
+  if (i == 20) printf('w');
+  else if (i == 30) printf('t');
+  
+  ////
+
+  switch (i) { // check against this value/variable
+  case 20: // i == 20
+    printf('w');
+    break;
+  case 30:
+    printf('t');
+    break;
+   default:
+    
+  }
+
+	   
+}

@@ -1,1 +1,1 @@
-nil
+("~/.emacs.d/" "c:/Users/Darien Reese/Programming/chip-8-interpreter/" "~/.emacs.d/smilebasic-mode/" "c:/Users/Darien Reese/go/src/github.com/ansxor/sbs/")

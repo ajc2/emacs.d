@@ -1,0 +1,183 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/elpa/auto-complete-20170125.245/" . "dict/")
+ ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/elpa/" . "auto-complete-20170125.245/")
+ ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/" . "smilebasic-mode/")
+ ("c:/Users/Darien Reese/Documents/CS/ReportCard/" . "practice/")
+ ("/Users/Darien Reese/Documents/CS/ReportCard/" . "practice/")
+ ("/Users/Darien Reese/Documents/CS/" . "ReportCard/")
+ ("/Users/Darien Reese/Documents/School/Math/" . "Notes/")
+ ("c:/Users/Darien Reese/Documents/School/" . "Physics/")
+ ("c:/Users/" . "Darien Reese/")
+ ("c:/" . "Users/")
+ ("/Users/Darien Reese/Documents/School/" . "CW/")
+ ("/Users/Darien Reese/Documents/" . "School/")
+ ("c:/Users/Darien Reese/Documents/" . "French/")
+ ("c:/Users/Darien Reese/Programming/" . "chip-8-interpreter/")
+ ("c:/Users/Darien Reese/" . "Programming/")
+ ("/Users/Darien Reese/go/src/github.com/ansxor/" . "sbs/")
+ ("/Users/Darien Reese/go/src/github.com/" . "ansxor/")
+ ("/Users/Darien Reese/go/src/" . "github.com/")
+ ("/Users/Darien Reese/go/" . "src/")
+ ("c:/Users/Darien Reese/AppData/Roaming/" . ".emacs.d/")
+ ("/Users/Darien Reese/Programming/" . "chip-8-interpreter/")
+ ("/Users/Darien Reese/" . "Documents/")
+ ("/Users/" . "Darien Reese/")
+ ("/" . "Users/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "c:/Users/Darien Reese/AppData/Roaming/.emacs.d/"
+ "/Users/Darien Reese/Documents/School/CW/"
+ "c:/Users/Darien Reese/AppData/Roaming/.emacs.d/smilebasic-mode/"
+ "c:/Users/Darien Reese/AppData/Roaming/"
+ "c:/Users/Darien Reese/AppData/Roaming/.emacs.d/elpa/auto-complete-20170125.245/dict/"
+ "c:/Users/Darien Reese/Documents/School/Physics/"
+ "/Users/Darien Reese/Documents/School/Math/"
+ "c:/Users/Darien Reese/Documents/CS/ReportCard/practice/"
+ "/Users/Darien Reese/Documents/CS/ReportCard/"
+ "/Users/Darien Reese/Documents/School/Ethics/"
+ "/Users/Darien Reese/Documents/School/"
+ "c:/Users/Darien Reese/Documents/School/Math/"
+ "/Users/Darien Reese/Documents/School/English/"
+ "/Users/Darien Reese/Documents/School/French/"
+ "c:/Users/Darien Reese/Documents/French/"
+ "c:/Users/Darien Reese/Documents/School/"
+ "c:/Users/Darien Reese/Documents/School/Math/Notes/"
+ "/Users/Darien Reese/Documents/School/Physics/"
+ "c:/Users/Darien Reese/Programming/chip-8-interpreter/"
+ "/Users/Darien Reese/Programming/chip-8-interpreter/"
+ "c:/Users/Darien Reese/Downloads/"
+ "c:/Users/Darien Reese/Documents/School/French/"
+ "/Users/Darien Reese/go/src/github.com/ansxor/sbs/"
+ "c:/Users/Darien Reese/Documents/"
+ "/Users/Darien Reese/Documents/"
+ "c:/Users/Darien Reese/AppData/Roaming/.emacs.d/Schedule/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "config.org"
+ "init.el"
+ "SecurityCounselCountryProfile.org"
+ "smilebasic-mode"
+ ".dict"
+ "smilebasic.el"
+ "config.el"
+ "c++-mode"
+ "ac-comphist.dat"
+ "Notes.org"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/" (24032 38922 0 0) "url/" "smi~" "smilebasic-mode/" "smi" "School.org.html" "School.org.gpg~" "School.org.gpg" "request/" "recentf~" "recentf" "README.org" "ralsei.png" "projectile.cache" "projectile-bookmarks.eld" "preview.png" "init.el~" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "config.org~" "config.org" "config.html" "config.el" "auto-save-list/" "ac-comphist.dat" ".last-package-update-day" ".gitignore~" ".gitignore" ".git/" "../" "./")
+
+ ("c:/Users/Darien Reese/AppData/Roaming/" (24032 16244 0 0) "windows95/" "Winamp/" "Visual Studio Code/" "Sun/" "Spotify/" "SpeedCrunch/" "slobs-plugins/" "slobs-client/" "REAPER/" "OpenShell/" "obs-studio-node-server/" "obs-studio/" "nxengine/" "NuGet/" "npm/" "mpv.net/" "Microsoft/" "message-20191101-082948" "LibreOffice/" "LGHUB/" "kleopatra/" "kdenlive/" "IrfanView/" "io.krunker.desktop/" "HandBrake/" "Google/" "Godot/" "gnupg/" "GIMP/" "Discord/" "Code/" "calibre/" "CairoStacksConfig.xml" "CairoAppConfig.xml" "BetterDiscord/" "Battle.net/" "AIMP/" "Adobe/" ".mono/" ".minecraft/" ".emacs.d/" ".dict" "../" "./")
+
+ ("c:/ProgramData/chocolatey/bin/" (24032 16193 0 0) "_processed.txt" "runemacs.exe" "rufus_files/" "rufus.exe" "RefreshEnv.cmd" "lha.exe" "gzip.exe" "godot.exe" "emacsclientw.exe" "emacsclient.exe" "emacs.exe" "cver.exe" "cup.exe" "cuninst.exe" "cpush.exe" "cpack.exe" "clist.exe" "cinst.exe" "chocolatey.exe" "choco.exe" "7z.exe" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/School/CW/" (24029 15654 0 0) "SecurityCounselCountryProfile.org~" "SecurityCounselCountryProfile.org" "SecurityCounselCountryProfile.html" "HongKongEssay.odt" ".#SecurityCounselCountryProfile.org" "#SecurityCounselCountryProfile.org#" "../" "./")
+
+ ("/Users/Darien Reese/Documents/School/CW/" (24028 13386 0 0) "SecurityCounselCountryProfile.org~" "SecurityCounselCountryProfile.org" "SecurityCounselCountryProfile.html" "HongKongEssay.odt" "../" "./")
+
+ ("/Users/Darien Reese/Documents/" (24026 62027 0 0) "[Cormen-AL2011]Introduction_To_Algorithms-A3.pdf" "WindowsPowerShell/" "Untitled-1.py" "things.org" "the_handbook_of_nonsexist_writing.pdf" "Tension and Conflict - 2019.org~" "Tension and Conflict - 2019.org" "Tension and Conflict - 2019.html~" "Tension and Conflict - 2019.html" "System Volume Information/" "Soulseek Downloads/" "SEGA/" "Screenshot_20180427222656.jpg" "School/" "reveal.js-3.8.0.zip" "reveal.js-3.8.0/" "reveal.js/" "ReaperUserGuide5984c.pdf" "Password/" "owo.wav" "owo.ust" "Overwatch/" "org-html-themes/" "o.org~" "NoMachine/" "My Videos/" "My Pictures/" "My Music/" "My Games/" "Multithreading in C - GeeksforGeeks_files/" "Multithreading in C - GeeksforGeeks.html" "mathtest.org~" "mathtest.org" "mathtest.html~" "mathtest.html" "KrunkerResourceSwapper/" "Heroes of the Storm/" "hello.c.gz" "heh.org~" "heh.c" "French/" "FJIMG_20170612_141922.jpg" "FJIMG_20170612_141731.jpg" "EJ_9eeLU0AAD-Yn.png" "download.jfif" "desktop.ini" "CS/" "Cross Fire/" "Caustic_3.2.0_standalone/" "answer - please never leave.flac" "aaa.org~" "aaa.org" "1570898361561.jpg" "0e4b57d863eae34a9d6831b4c5d8dcdf.png" "#things.org#" "../" "./")
+
+ ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/smilebasic-mode/" (24023 11829 0 0) "smilebasic.el" "smilebasic-mode~" "smilebasic-mode" "README.org" "LICENSE" ".git/" "../" "./")
+
+ ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/elpa/" (24023 9994 0 0) "which-key-20191111.1951/" "w3m-20191112.639/" "use-package-20191110.416/" "smart-mode-line-20190527.1156/" "s-20180406.808/" "rich-minority-20190419.1136/" "request-20191114.1629/" "rainbow-delimiters-20191018.1233/" "projectile-20191024.721/" "powerthesaurus-20190721.805/" "powerline-20190323.213/" "pos-tip-20150318.1513/" "popup-kill-ring-20131020.1854/" "popup-20160709.1429/" "pkg-info-20150517.1143/" "page-break-lines-20190519.2238/" "ox-reveal-20190918.1627/" "neotree-20181121.2026/" "memoize-20191004.351/" "jeison-20190721.1651/" "ido-vertical-mode-20180618.2101/" "htmlize-20191111.2130/" "google-translate-20190620.1416/" "gnupg/" "epl-20180205.2049/" "dracula-theme-20191029.1905/" "dashboard-20191009.1129/" "dash-20191109.1327/" "company-20191114.1356/" "bind-key-20191110.416/" "beacon-20190104.1931/" "auto-package-update-20180712.2045/" "auto-complete-20170125.245/" "archives/" "ample-theme-20180207.1745/" "all-the-icons-20191114.1836/" "../" "./")
+
+ ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/elpa/auto-complete-20170125.245/dict/" (24023 9469 0 0) "verilog-mode" "tuareg-mode" "ts-mode" "tcl-mode" "swift-mode" "smilebasic-mode~" "smilebasic-mode" "sh-mode" "sclang-mode" "scheme-mode" "scala-mode" "ruby-mode" "qml-mode" "python-mode" "php-mode" "octave-mode" "objc-mode" "nim-mode" "lua-mode" "julia-mode" "js-mode" "java-mode" "haskell-mode" "go-mode" "ess-julia-mode" "erlang-mode" "css-mode" "coq-mode" "clojurescript-mode" "clojure-mode" "caml-mode" "c-mode" "c++-mode" "ada-mode" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/" (24020 31080 0 0) "[Cormen-AL2011]Introduction_To_Algorithms-A3.pdf" "WindowsPowerShell/" "Untitled-1.py" "things.org" "the_handbook_of_nonsexist_writing.pdf" "Tension and Conflict - 2019.org~" "Tension and Conflict - 2019.org" "Tension and Conflict - 2019.html~" "Tension and Conflict - 2019.html" "System Volume Information/" "Soulseek Downloads/" "Screenshot_20180427222656.jpg" "School/" "reveal.js-3.8.0.zip" "reveal.js-3.8.0/" "reveal.js/" "ReaperUserGuide5984c.pdf" "Password/" "owo.wav" "owo.ust" "Overwatch/" "org-html-themes/" "o.org~" "NoMachine/" "My Videos/" "My Pictures/" "My Music/" "My Games/" "Multithreading in C - GeeksforGeeks_files/" "Multithreading in C - GeeksforGeeks.html" "mathtest.org~" "mathtest.org" "mathtest.html~" "mathtest.html" "KrunkerResourceSwapper/" "Heroes of the Storm/" "hello.c.gz" "heh.org~" "heh.c" "French/" "FJIMG_20170612_141922.jpg" "FJIMG_20170612_141731.jpg" "download.jfif" "desktop.ini" "CS/" "Caustic_3.2.0_standalone/" "answer - please never leave.flac" "aaa.org~" "aaa.org" "1570898361561.jpg" "0e4b57d863eae34a9d6831b4c5d8dcdf.png" "#things.org#" "../" "./")
+
+ ("c:/Users/Darien Reese/Downloads/" (24021 63192 0 0) "winamp58_3660_beta_full_en-us.exe" "utau0418e-inst.zip" "utau0418e-inst/" "Tomson Highway - The Rez Sisters_ A Play in Two Acts (1988).pdf" "TimerResolution.zip" "TimerResolution/" "TheMatrixTrilogy062.exe" "Sonic_The_Hedgehog_2.zip" "Sonic3C_130810.zip" "sfarkxtc-master.zip" "setup.exe" "settings.txt" "RobloxPlayerLauncher.exe" "reaper5984_x64-install.exe" "qtpass-1.3.2.exe" "osu!install.exe" "OptiFine_1.14.4_HD_U_F4.jar" "NXEngine-v2.6.4-Win64.zip" "NXEngine-v2.6.4-Win64/" "NetBSD-8.1-amd64-install.img.gz" "NetBSD-8.1-amd64-install.img/" "MinecraftInstaller.msi" "MikuMikuDanceE_v931x64.zip" "miband4vsf91w.png" "melonpan.webm" "kodi-18.4-Leia-x64.exe" "install-tl-windows.exe" "Imagine_Believing_in_that.ogg" "Fusion364-285.zip" "Fusion364-285/" "evaluation_fin_détape_5e_-_étape_1.pptx" "Dr._Robotnik's_Mean_Bean_Machine.zip" "desktop.ini" "dejavu-fonts-ttf-2.37.zip" "dejavu-fonts-ttf-2.37/" "debian-10.2.0-amd64-netinst.iso" "CanonicalGroupLimited.Ubuntu18.04onWindows_1804.2018.817.0_x64__79rhkp1fndgsc.Appx" "Beatmap Pack #836/" "Battle.net-Setup.exe" "avengedsailor-sowayhay-cut-version.ogg" "archfi" "Antoine de Saint-Exupery - Le Petit Prince-Gallimard (1987).doc" "Aim Hero.rar" "Aim Hero/" "ae73781a-d761-4bbb-9d41-841b94251f9c.png" "1571099083175.jpg" "1544811833754.jpg" "1505147395834.jpg" "../" "./")
+
+ ("/Users/Darien Reese/Documents/School/Physics/" (24022 64286 0 0) "reveal.js/" "Notes.org~" "Notes.org" "Notes.html~" "Notes.html" "../" "./")
+
+ ("/Users/Darien Reese/Documents/School/Ethics/" (24012 43139 0 0) "Religion.org~" "Religion.org" "proj.c" "../" "./")
+
+ ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/elpa/auto-complete-20170125.245/" (23995 42687 0 0) "dict/" "auto-complete.elc" "auto-complete.el" "auto-complete-pkg.el" "auto-complete-config.elc" "auto-complete-config.el" "auto-complete-autoloads.el" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/School/Physics/" (24022 64286 0 0) "reveal.js/" "Notes.org~" "Notes.org" "Notes.html~" "Notes.html" "../" "./")
+
+ ("/Users/Darien Reese/Documents/School/Math/" (24019 62627 0 0) "reveal.js/" "Notes.org~" "Notes.org" "Notes.html~" "Notes.html" "Notes/" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/School/Math/" (24019 62627 0 0) "reveal.js/" "Notes.org~" "Notes.org" "Notes.html~" "Notes.html" "Notes/" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/CS/ReportCard/practice/" (24011 35026 0 0) "reportCard.h~" "reportCard.h" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/CS/ReportCard/" (24011 34164 0 0) "practice/" "main.c~" "main.c" "../" "./")
+
+ ("/Users/Darien Reese/Documents/CS/ReportCard/practice/" (24011 35026 0 0) "reportCard.h~" "reportCard.h" "../" "./")
+
+ ("/Users/Darien Reese/Documents/CS/ReportCard/" (24011 34164 0 0) "practice/" "main.c~" "main.c" "../" "./")
+
+ ("/Users/Darien Reese/Documents/CS/" (24011 34140 0 0) "ReportCard/" "../" "./")
+
+ ("/Users/Darien Reese/" (24017 64104 0 0) "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "Programming/" "PrintHood/" "Pictures/" "password-store/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "lmms/" "Links/" "IntelGraphicsProfiles/" "go/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Calibre Library/" "Application Data/" "AppData/" "3D Objects/" ".vscode/" ".node_repl_history" ".lmmsrc.xml" ".gitconfig" ".config/" ".cache/" "../" "./")
+
+ ("/Users/Darien Reese/Documents/School/Math/Notes/" (24002 11306 0 0) "InverseFunctions.org" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/School/French/" (24005 41178 0 0) "Nov4-Redaction.org~" "Nov4-Redaction.org" "Nov07-PourOuContre.org~" "Nov07-PourOuContre.org" "EvaluationOrale.org~" "EvaluationOrale.org" "#Nov07-PourOuContre.org#" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/School/Math/Notes/" (24002 11306 0 0) "InverseFunctions.org" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/School/" (24010 8735 0 0) "ShortStory.org~" "ShortStory.org" "Sea Prayer Rough Copy.txt" "Sea Prayer Evaluation.odt" "Physics/" "Math/" "Le Petit Prince.org~" "Le Petit Prince.org" "Le Petit Prince.html" "help.org" "heh.org" "French.odp" "French/" "evaluation_fin_détape_5e_-_étape_1.pptx_0.odp" "EvaluationOraleEtape1.org~" "EvaluationOraleEtape1.org" "Ethics/" "English/" "CW/" "#Le Petit Prince.org#" "#EvaluationOraleEtape1.org#" "#ContemporaryWorld.org#" "../" "./")
+
+ ("/Users/Darien Reese/Documents/School/French/" (24005 41178 0 0) "Nov4-Redaction.org~" "Nov4-Redaction.org" "Nov07-PourOuContre.org~" "Nov07-PourOuContre.org" "EvaluationOrale.org~" "EvaluationOrale.org" "#Nov07-PourOuContre.org#" "../" "./")
+
+ ("/Users/Darien Reese/Documents/School/" (24010 8735 0 0) "ShortStory.org~" "ShortStory.org" "Sea Prayer Rough Copy.txt" "Sea Prayer Evaluation.odt" "Physics/" "Math/" "Le Petit Prince.org~" "Le Petit Prince.org" "Le Petit Prince.html" "help.org" "heh.org" "French.odp" "French/" "evaluation_fin_détape_5e_-_étape_1.pptx_0.odp" "EvaluationOraleEtape1.org~" "EvaluationOraleEtape1.org" "Ethics/" "English/" "CW/" "#Le Petit Prince.org#" "#EvaluationOraleEtape1.org#" "#ContemporaryWorld.org#" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/School/English/" (24001 4016 0 0) "2019-11-04-ProductionTask.org" "#2019-11-04-ProductionTask.org#" "../" "./")
+
+ ("c:/Users/Darien Reese/Documents/French/" (23994 16377 0 0) "Eval.txt~" "Eval.txt" "#Eval.txt#" "../" "./")
+
+ ("c:/Users/Darien Reese/Programming/" (24004 13527 0 0) "WoeUSB/" "sound-test/" "sbschat-client/" "sbschat/" "sbchat-c/" "sans-recreation/" "sample-database-project/" "rtags/" "pthread-test/" "meincraft.org" "go-chat/" "garbage/" "discord-bot/" "darcy/" "chip-8-interpreter/" "chat-lua/" "chat/" "avg.c" "algorithms-practice/" "aaaaaaaaa/" ".#avg.c" "#avg.c#" "../" "./")
+
+ ("/Users/Darien Reese/Programming/chip-8-interpreter/" (24001 30479 0 0) "tetris.rom" "README.org" "messages.h" "memory.c" "makefile" "main.c" "interpret.h" "interpret.c" "instruction.h" "display.c" "chip8.h" "chip8.c~" "chip8.c" "chip8" "c8ram.h" ".git/" "../" "./")
+
+ ("/Users/Darien Reese/Documents/School/English/" (24001 4016 0 0) "2019-11-04-ProductionTask.org" "#2019-11-04-ProductionTask.org#" "../" "./")
+
+ ("c:/Users/Darien Reese/Programming/chip-8-interpreter/" (24001 30479 0 0) "tetris.rom" "README.org" "messages.h" "memory.c" "makefile" "main.c" "interpret.h" "interpret.c" "instruction.h" "display.c" "chip8.h" "chip8.c~" "chip8.c" "chip8" "c8ram.h" ".git/" "../" "./")
+
+ ("c:/Users/" (23988 63706 0 0) "Public/" "desktop.ini" "Default User/" "Default/" "Darien Reese/" "All Users/" "../" "./")
+
+ ("c:/ProgramData/" (23995 44164 0 0) "WindowsHolographicDevices/" "USOShared/" "USOPrivate/" "Templates/" "Start Menu/" "SquirrelMachineInstalls/" "SoftwareDistribution/" "shimgen/" "regid.1991-06.com.microsoft/" "Packages/" "Package Cache/" "Oracle/" "Microsoft OneDrive/" "Microsoft/" "Lenovo/" "Git/" "DP45977C.lfl" "Documents/" "Desktop/" "chocolatey/" "Blizzard Entertainment/" "Battle.net/" "Application Data/" "../" "./")
+
+ ("c:/ProgramData/chocolatey/" (23988 62838 0 0) "tools/" "redirects/" "logs/" "LICENSE.txt" "lib/" "helpers/" "extensions/" "CREDITS.txt" "config/" "choco.exe.manifest" "choco.exe.ignore" "choco.exe" "bin/" ".chocolatey/" "../" "./")
+
+ ("c:/Users/Darien Reese/AppData/" (23988 62494 0 0) "Roaming/" "LocalLow/" "Local/" "../" "./")
+
+ ("c:/Users/Darien Reese/" (23996 43814 0 0) "Videos/" "Templates/" "Start Menu/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "Programming/" "PrintHood/" "Pictures/" "OneDrive/" "ntuser.ini" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{fd9a35db-49fe-11e9-aa2c-248a07783950}.TM.blf" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "MicrosoftEdgeBackups/" "Local Settings/" "lmms/" "Links/" "IntelGraphicsProfiles/" "go/" "Favorites/" "Downloads/" "Documents/" "Desktop/" "Cookies/" "Contacts/" "Calibre Library/" "Application Data/" "AppData/" "3D Objects/" ".vscode/" ".lmmsrc.xml" ".gitconfig" "../" "./")
+
+ ("c:/Users/Darien Reese/go/" (23988 63433 0 0) "src/" "pkg/" "bin/" "../" "./")
+
+ ("c:/Users/Darien Reese/go/src/" (23988 63433 0 0) "github.com/" "../" "./")
+
+ ("c:/Users/Darien Reese/go/src/github.com/" (23988 63435 0 0) "rthornton128/" "gorilla/" "ansxor/" "../" "./")
+
+ ("c:/Users/Darien Reese/go/src/github.com/ansxor/" (23988 63436 0 0) "sbs/" "sbchat/" "../" "./")
+
+ ("c:/Users/Darien Reese/go/src/github.com/ansxor/sbs/" (23988 63436 0 0) "siteinfo.go" "session.go" "chat.go" ".vscode/" ".git/" "../" "./")
+
+ ("/Users/Darien Reese/go/src/github.com/ansxor/sbs/" (23988 63436 0 0) "siteinfo.go" "session.go" "chat.go" ".vscode/" ".git/" "../" "./")
+
+ ("/Users/Darien Reese/go/src/github.com/ansxor/" (23988 63436 0 0) "sbs/" "sbchat/" "../" "./")
+
+ ("/Users/Darien Reese/go/src/github.com/" (23988 63435 0 0) "rthornton128/" "gorilla/" "ansxor/" "../" "./")
+
+ ("/Users/Darien Reese/go/src/" (23988 63433 0 0) "github.com/" "../" "./")
+
+ ("/Users/Darien Reese/go/" (23988 63433 0 0) "src/" "pkg/" "bin/" "../" "./")
+
+ ("/Users/Darien Reese/Programming/" (23988 63151 0 0) "WoeUSB/" "sound-test/" "sbschat-client/" "sbschat/" "sbchat-c/" "sans-recreation/" "sample-database-project/" "rtags/" "pthread-test/" "meincraft.org" "go-chat/" "garbage/" "discord-bot/" "darcy/" "chip-8-interpreter/" "chat-lua/" "chat/" "algorithms-practice/" "aaaaaaaaa/" "../" "./")
+
+ ("/Users/" (23988 63706 0 0) "Public/" "desktop.ini" "Default User/" "Default/" "Darien Reese/" "All Users/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

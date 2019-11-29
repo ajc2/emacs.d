@@ -1,2 +1,3 @@
 mklink README.org config.org
 git init
+git init
