@@ -1,1 +1,1 @@
-("~/.emacs.d/" "c:/Users/Darien Reese/Programming/chip-8-interpreter/" "~/.emacs.d/smilebasic-mode/" "c:/Users/Darien Reese/go/src/github.com/ansxor/sbs/")
+("~/Programming/advent-of-code/puzzle-09/" "~/Programming/advent-of-code/day-06/" "~/.emacs.d/" "~/Programming/chip-8-interpreter/" "~/Programming/identity-mask-discord-bot/" "~/.emacs.d/smilebasic-mode/")

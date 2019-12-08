@@ -2,6 +2,13 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/answer/Programming/advent-of-code/day-06/" . "src/")
+ ("/home/answer/Documents/" . "School/")
+ ("/home/answer/Programming/advent-of-code/puzzle-09/" . "src/")
+ ("/home/answer/Programming/advent-of-code/" . "day-06/")
+ ("/home/answer/Programming/" . "advent-of-code/")
+ ("/home/answer/" . ".emacs.d/")
+ ("/home/answer/.emacs.d/" . "smilebasic-mode/")
  ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/elpa/auto-complete-20170125.245/" . "dict/")
  ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/elpa/" . "auto-complete-20170125.245/")
  ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/" . "smilebasic-mode/")
@@ -30,6 +37,14 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/answer/.emacs.d/"
+ "/home/answer/Programming/advent-of-code/"
+ "/home/answer/Programming/advent-of-code/day-06/src/"
+ "/home/answer/Documents/School/"
+ "/home/answer/Programming/advent-of-code/puzzle-09/"
+ "/home/answer/Programming/advent-of-code/puzzle-09/src/"
+ "/home/answer/Programming/identity-mask-discord-bot/"
+ "/home/answer/"
  "c:/Users/Darien Reese/AppData/Roaming/.emacs.d/"
  "/Users/Darien Reese/Documents/School/CW/"
  "c:/Users/Darien Reese/AppData/Roaming/.emacs.d/smilebasic-mode/"
@@ -61,19 +76,43 @@
 ;; ----- ido-work-file-list -----
 (
  "config.org"
- "init.el"
- "SecurityCounselCountryProfile.org"
- "smilebasic-mode"
- ".dict"
- "smilebasic.el"
- "config.el"
- "c++-mode"
- "ac-comphist.dat"
- "Notes.org"
+ "day-06-part2.py"
+ "main.rs"
+ "Schedule.org"
+ "puzzle-09.py"
+ "puzzle-04.py"
+ "Cargo.toml"
+ "puzzle-09.rs"
+ "puzzle-07.py"
+ "puzzle-03.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/answer/.emacs.d/" (24043 1759 246698 958000) "smilebasic-mode/" "recentf~" "session.1059ec0fe546d5967a157560773156435000000015290088" "ido.last" ".git/" ".gitignore" "config.html" "config.el" "init.el" "session.1020bd4616d32ea6a3157554730458273500000012380082" "README.org" "session.10d2b8940fdc87d42157520516676827700000012850080" "session.10db567b4f998c6362157540878697763800000013480079" "auto-save-list/" "session.10eaff06aa7cd7765157517798620953700000012660083" "projectile.cache" "session.1098f52f38c83be004157548935625883200000012150081" "request/" "url/" "smi" "../" "preview.png" "config.org" "eshell/" "#recentf#" "ac-comphist.dat" "evil/" "#config.org#" "School.org.gpg" "projectile-bookmarks.eld" "session.10e09eb37ce9fa2852157566652546848400000013400079" "session.10e27a05b01970e941157524190746220000000012630086" "elpa/" "ralsei.png" "session.107fdbf22e71265c5157538076830961200000012290077" "session.10df05a639acef50cf157530935287729900000012340081" ".last-package-update-day" "ido.last~" "recentf" "./")
+
+ ("/home/answer/Programming/advent-of-code/day-06/src/" (24043 412 987034 838000) "main.rs~" "main.rs" "../" "./")
+
+ ("/home/answer/Programming/advent-of-code/day-06/" (24042 23027 804280 665000) ".git/" ".gitignore" "src/" "Cargo.toml" "../" "target/" "Cargo.lock" "./")
+
+ ("/home/answer/Programming/advent-of-code/" (24042 23669 191077 932000) "puzzle-05.py.old" "day-06-part2.py" "day-06/" "puzzle-09.rs~" "puzzle-06.py~" "puzzle-05.rs~" "#puzzle-06.py#" "#puzzle-05.rs#" "#puzzle-03.py#" "puzzle-01.py~" "puzzle-09.py~" "puzzle-03.py~" "puzzle-03.py" "puzzle-02.py~" "../" "puzzle-05.py~" "puzzle-09.py" "puzzle-07.py~" "#puzzle-07.py#" "puzzle-02.py" "puzzle-09.rs" "puzzle-04.py~" "puzzle-06.py" "puzzle-06.py.old" "puzzle-05.py" "puzzle-07.py" "puzzle-05.rs" "puzzle-01.py" "puzzle-04.py" "puzzle-09/" "day-06-part2.py~" "day-06.py~" "day-06.py" "./")
+
+ ("/home/answer/" (24042 26563 60129 173000) "Desktop/" ".steampath" ".snes9x/" "32X_M_BIOS.BIN" ".profile" "32X_G_BIOS.BIN" ".wget-hsts" "Videos/" ".Xclients" ".pki/" ".dir_colors" "Genesis_OS_ROM.bin" ".cargo/" "Programming/" ".bash_logout" ".audacity-data/" ".emacs.d/" "Templates/" "lmms/" "../" ".Kega Fusion/" "Pictures/" ".steampid" ".bash_history" ".bash_profile" ".xinitrc" ".wine/" ".thumbnails/" ".config/" "jp_mcd1_9112.bin" "Games/" ".mozilla/" ".bashrc" ".lmmsrc.xml" "eu_mcd1_9210.bin" "Music/" "Public/" "us_scd1_9210.bin" ".cache/" ".local/" ".steam/" "32X_S_BIOS.BIN" ".gnupg/" ".vscode-oss/" "Documents/" ".ssh/" "Downloads/" "./")
+
+ ("/home/answer/Documents/School/" (24041 2119 490862 606000) "Math/" "English/" "Le Petit Prince.org~" "French/" "ShortStory.org" "Le Petit Prince.org" "heh.org" "#Le Petit Prince.org#" "help.org" "evaluation_fin_détape_5e_-_étape_1.pptx_0.odp" "EvaluationOraleEtape1.org~" "Le Petit Prince.html" "../" "ShortStory.org~" "Schedule.org~" "CW/" "#EvaluationOraleEtape1.org#" "Ethics/" "Sea Prayer Rough Copy.txt" "French.odp" "EvaluationOraleEtape1.org" "Schedule.org" "Physics/" "./" "Sea Prayer Evaluation.odt" "#ContemporaryWorld.org#")
+
+ ("/home/answer/Documents/" (24034 21923 229139 468000) "CS/" "Soulseek Downloads/" "ReaperUserGuide5984c.pdf" "hello.c.gz" "1570898361561.jpg" "French/" "heh.c" "SEGA/" "Tension and Conflict - 2019.html~" "reveal.js/" "reveal.js-3.8.0.zip" "Heroes of the Storm/" "reveal.js-3.8.0/" "Screenshot_20180427222656.jpg" "owo.wav" "Multithreading in C - GeeksforGeeks.html" "download.jfif" "#things.org#" "aaa.org~" "godot/" "FJIMG_20170612_141922.jpg" "0e4b57d863eae34a9d6831b4c5d8dcdf.png" "Caustic_3.2.0_standalone/" "KrunkerResourceSwapper/" "Overwatch/" "../" "mathtest.org" "christmas.org" "aaa.org" "heh.org~" "things.org" "My Videos" "owo.ust" "mathtest.org~" "mathtest.html" "o.org~" "WindowsPowerShell/" "Tension and Conflict - 2019.html" "FJIMG_20170612_141731.jpg" "My Games/" "[Cormen-AL2011]Introduction_To_Algorithms-A3.pdf" "NoMachine/" "My Music" "My Pictures" "answer - please never leave.flac" "System Volume Information/" "Tension and Conflict - 2019.org" "Password/" "EJ_9eeLU0AAD-Yn.png" "Multithreading in C - GeeksforGeeks_files/" "Tension and Conflict - 2019.org~" "School/" "Untitled-1.py" "desktop.ini" "Cross Fire/" "mathtest.html~" "SEGA Mega Drive Classics/" "org-html-themes/" "the_handbook_of_nonsexist_writing.pdf" "./")
+
+ ("/home/answer/Programming/advent-of-code/puzzle-09/src/" (24041 50789 38430 298000) "main.rs~" "main.rs" "../" "#main.rs#" ".#main.rs" "./")
+
+ ("/home/answer/Programming/advent-of-code/puzzle-09/" (24041 34415 950874 345000) ".git/" ".gitignore" "src/" "Cargo.toml" "../" "target/" "Cargo.lock" "Cargo.toml~" "./")
+
+ ("/home/answer/Programming/identity-mask-discord-bot/" (24035 20223 958194 938000) ".git/" "../" "README.md" "bot.py" "./")
+
+ ("/home/answer/Programming/" (24036 18825 137433 271000) "garbage/" "go-chat/" "pthread-test/" "algorithms-practice/" "sound-test/" "sbschat-client/" "identity-mask-discord-bot/" "darcy/" "sbchat-c/" "sbschat/" "rtags/" "meincraft.org" "WoeUSB/" "advent-of-code/" "../" "aaaaaaaaa/" "chat-lua/" "#avg.c#" "sample-database-project/" "sans-recreation/" "avg.c" "chat/" "chip-8-interpreter/" "discord-bot/" "./")
+
+ ("/home/answer/.emacs.d/smilebasic-mode/" (24035 19256 723926 648000) "../" "./")
+
  ("c:/Users/Darien Reese/AppData/Roaming/.emacs.d/" (24032 38922 0 0) "url/" "smi~" "smilebasic-mode/" "smi" "School.org.html" "School.org.gpg~" "School.org.gpg" "request/" "recentf~" "recentf" "README.org" "ralsei.png" "projectile.cache" "projectile-bookmarks.eld" "preview.png" "init.el~" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "config.org~" "config.org" "config.html" "config.el" "auto-save-list/" "ac-comphist.dat" ".last-package-update-day" ".gitignore~" ".gitignore" ".git/" "../" "./")
 
  ("c:/Users/Darien Reese/AppData/Roaming/" (24032 16244 0 0) "windows95/" "Winamp/" "Visual Studio Code/" "Sun/" "Spotify/" "SpeedCrunch/" "slobs-plugins/" "slobs-client/" "REAPER/" "OpenShell/" "obs-studio-node-server/" "obs-studio/" "nxengine/" "NuGet/" "npm/" "mpv.net/" "Microsoft/" "message-20191101-082948" "LibreOffice/" "LGHUB/" "kleopatra/" "kdenlive/" "IrfanView/" "io.krunker.desktop/" "HandBrake/" "Google/" "Godot/" "gnupg/" "GIMP/" "Discord/" "Code/" "calibre/" "CairoStacksConfig.xml" "CairoAppConfig.xml" "BetterDiscord/" "Battle.net/" "AIMP/" "Adobe/" ".mono/" ".minecraft/" ".emacs.d/" ".dict" "../" "./")

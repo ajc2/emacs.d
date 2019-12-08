@@ -223,19 +223,10 @@ Allow for the exporting of org-mode files in HTML in Windows.
 #+BEGIN_SRC emacs-lisp
 (use-package fireplace)
 #+END_SRC
-* Evil Mode
+* xah-fly-keys
 #+BEGIN_SRC emacs-lisp
-(add-to-list 'load-path "~/.emacs.d/evil")
-(require 'evil)
-(evil-mode 1)
-#+END_SRC
-* Clojure Mode
-#+BEGIN_SRC emacs-lisp
-(use-package clojure-mode)
-#+END_SRC
-* Rust Mode
-#+BEGIN_SRC emacs-lisp
-(use-package rust-mode)
+  (use-package xah-fly-keys
+    :config (xah-fly-keys-set-layout "qwerty"))
 #+END_SRC
 * TODO Magit
 * TODO Yasnippet
